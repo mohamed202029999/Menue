@@ -71,9 +71,9 @@
     }
 }
 
-/* Extra large devices (large laptops and desktops, 1190px and up) */
-@media  screen and (min-width: 1190px) {
-    .xlg-1{
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media  screen and (min-width: 1200px) {
+    .xlg-100{
         width:100%;
     }
     .xlg-2{

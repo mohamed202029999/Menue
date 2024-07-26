@@ -1,6 +1,7 @@
 /* start main styling */
 :root{
     --color:#ff9e0c ;
+    --gap:1em;
 }
 *{
     box-sizing: border-box;
