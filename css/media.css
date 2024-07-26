@@ -1,91 +1,91 @@
-.xsm-100{
+.xsm-1{
     width:100%;
 }
-.xsm-50{
-    width:50%;
+.xsm-2{
+    width:49%;
 }
-.xsm-33{
-    width:33.3333%
+.xsm-3{
+    width:32%
 }
-.xsm-25{
-    width:25%
+.xsm-4{
+    width:24%
 }
-.xsm-20{
-    width:20%;
+.xsm-5{
+    width:19%;
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media  screen and (min-width: 600px) {
-    .sm-100{
+    .sm-1{
         width:100%;
     }
-    .sm-50{
-        width:50%;
+    .sm-2{
+        width:49%;
     }
-    .sm-33{
-        width:33.3333%
+    .sm-3{
+        width:32%
     }
-    .sm-25{
-        width:25%
+    .sm-4{
+        width:24%
     }
-    .sm-20{
-        width:20%;
+    .sm-5{
+        width:19%;
     }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media  screen and (min-width: 768px) {
-    .md-100{
+    .md-1{
         width:100%;
     }
-    .md-50{
-        width:50%;
+    .md-2{
+        width:49%;
     }
-    .md-33{
-        width:33.3333%
+    .md-3{
+        width:32%
     }
-    .md-25{
-        width:25%
+    .md-4{
+        width:24%
     }
-    .md-20{
-        width:20%;
+    .md-5{
+        width:19%;
     }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media  screen and (min-width: 992px) {
-    .lg-100{
+    .lg-1{
         width:100%;
     }
-    .lg-50{
-        width:50%;
+    .lg-2{
+        width:49%;
     }
-    .lg-33{
-        width:33.3333%
+    .lg-3{
+        width:32%
     }
-    .lg-25{
-        width:25%
+    .lg-4{
+        width:24%
     }
-    .lg-20{
-        width:20%;
+    .lg-5{
+        width:19%;
     }
 }
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media  screen and (min-width: 1200px) {
-    .xlg-100{
+/* Extra large devices (large laptops and desktops, 1190px and up) */
+@media  screen and (min-width: 1190px) {
+    .xlg-1{
         width:100%;
     }
-    .xlg-50{
-        width:50%;
+    .xlg-2{
+        width:49%;
     }
-    .xlg-33{
-        width:33.3333%
+    .xlg-3{
+        width:32%
     }
-    .xlg-25{
-        width:25%
+    .xlg-4{
+        width:24%
     }
-    .xlg-20{
-        width:20%;
+    .xlg-5{
+        width:19%;
     }
 }
